@@ -1,0 +1,39 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+#bed {
+    background-color: aqua;
+    width: 200;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#fruit {
+    background-color: aqua;
+    width: 200;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#flower {
+    background-color: aqua;
+    width: 200;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#bottle {
+    background-color: aqua;
+    width: 200;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#tv {
+    background-color: aqua;
+    width: 200;
+    text-align: center;
+    border-radius: 20px;
+}
